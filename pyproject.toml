@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "valorant-core-qa"
 version = "0.1.0"
-description = "Portfolio test automation model for a VALORANT-like competitive match flow"
+description = "Test automation model for a competitive match flow"
 requires-python = ">=3.10"
 dependencies = []
 
