@@ -1,0 +1,10 @@
+{"timestamp":"2026-10-30T10:00:00Z","level":"INFO","event":"queue_joined","player_id":"p-001"}
+{"timestamp":"2026-10-30T10:00:01Z","level":"INFO","event":"match_found","match_id":"m-001"}
+{"timestamp":"2026-10-30T10:00:02Z","level":"INFO","event":"agent_locked","agent":"sample-agent"}
+{"timestamp":"2026-10-30T10:00:08Z","level":"ERROR","event":"load_timeout","match_id":"m-001","elapsed_ms":6000}
+{"timestamp":"2026-10-30T10:00:09Z","level":"INFO","event":"retry_started","attempt":2}
+{"timestamp":"2026-10-30T10:00:12Z","level":"INFO","event":"match_entered","match_id":"m-001"}
+{"timestamp":"2026-10-30T10:00:20Z","level":"INFO","event":"buy_success","request_id":"buy-001"}
+{"timestamp":"2026-10-30T10:00:21Z","level":"ERROR","event":"duplicate_request","request_id":"buy-001"}
+{"timestamp":"2026-10-30T10:00:22Z","level":"INFO","event":"duplicate_ignored","request_id":"buy-001"}
+
